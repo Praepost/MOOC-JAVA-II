@@ -1,4 +1,4 @@
-Solutions for java-programming.mooc.fi/ Java II
+Second part of solutions for java-programming.mooc.fi/ Java II
 
 Free to use
 
